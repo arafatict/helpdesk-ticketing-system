@@ -45,6 +45,7 @@ It is designed around the author's verified IT Support interests and experience 
 - Vanilla JavaScript
 - Browser `localStorage`
 - GitHub Pages
+- Lightweight SVG favicon
 
 ## How to use
 
